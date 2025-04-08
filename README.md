@@ -7,7 +7,6 @@
 - 🎓 Final Year Engineering Student | University of Bamenda, Cameroon  
 - 💡 Creator of **GoldenBraintek** on YouTube – demystifying DevOps, AI & Full Stack Development  
 - 🧠 Currently doing a **60 Days DevOps Challenge** – daily value drops on [YouTube](https://www.youtube.com/@goldenbraintek)  
-# - 🚀 Final Year Project: **Offline AI-Powered Educational Platform** to expand access in remote areas  
 - 🔐 DevSecOps mindset – security, automation, and scalability from day one
 
 ---
