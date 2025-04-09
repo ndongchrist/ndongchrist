@@ -52,7 +52,7 @@
 
 ### 📡 Connect with Me
 
-- 📬 Email: [Your Email](mailto:christianhonore2003@gmail.com)
+- 📬 Email: [christianhonore2003@gmail.com](mailto:christianhonore2003@gmail.com)
 - 💼 LinkedIn: [GoldenBrain](https://www.linkedin.com/in/goldenbrain)
 - 🌐 Portfolio: [GoldenBrainTek](https://chris.goldenbraintek.blog)
 
