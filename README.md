@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools 🎉
 
 #### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=black)
