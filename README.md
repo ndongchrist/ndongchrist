@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **GoldenBrain** — DevSecOps Enthusiast & Tech Educator  
+## 👋 Hi there, I'm **GoldenBrain** , DevSecOps Enthusiast & Tech Educator  
 🎥 [YouTube: @goldenbraintek](https://www.youtube.com/@goldenbraintek)
 
 ---
