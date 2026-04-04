@@ -57,7 +57,7 @@
 
 ---
 
-> 🧠 _“I don’t just write code—I build solutions, secure systems, and inspire minds.”_
+> 🧠 _“I don’t just write code, I build solutions, secure systems, and inspire minds.”_
 
 ---
 
