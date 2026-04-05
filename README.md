@@ -7,7 +7,7 @@
 - 🎓 Software Engineering | University of Bamenda, Cameroon  
 - 💡 Creator of **GoldenBraintek** on YouTube – demystifying DevOps, AI & Full Stack Development  
 - 🧠 Currently doing a **60 Days DevOps Challenge** – daily value drops on [YouTube](https://www.youtube.com/@goldenbraintek)  
-- 🔐 DevSecOps mindset – security, automation, and scalability from day one
+- 🔐 DevSecOps mindset – security, automation, and scalability from day one 
 
 ---
 
